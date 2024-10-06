@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: DaltonManning/
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -8,15 +8,15 @@ version: 2
 # Personal info
 name: Dalton Manning
 title: Process Controller & Automation Engineer
-email: dalton
-website: www.github.com/sproogen/resume-theme
+email: DaltonManning18@gmail.com
+website: daltonmanning.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+github_username:  DaltonManning
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -25,7 +25,7 @@ github_username:  sproogen
 linkedin_username: Dalton-Manning
 # xing_username: jekyll
 # pinterest_username: jekyll
-#youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -58,8 +58,7 @@ content:
     content:
       - layout: top-middle
         title: Senior Project?
-        link: github.com/sproogen
-        # link_text: Project Website
+       # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
